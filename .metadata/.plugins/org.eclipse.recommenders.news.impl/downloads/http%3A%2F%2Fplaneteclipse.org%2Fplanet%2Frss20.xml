@@ -9,11 +9,117 @@
 	<atom:link rel="self" href="http://planeteclipse.org/rss20.xml" type="application/rss+xml"/>
 
 <item>
+	<title>Mike Milinkovich: Shaping the Future of the Eclipse IDE</title>
+	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1610</guid>
+	<link>https://eclipse-foundation.blog/2021/06/17/shaping-the-future-of-the-eclipse-ide/</link>
+	<description>&lt;p&gt;I’m very pleased to share the news that multiple Eclipse Foundation members have joined forces in a new working group focused on advancing and sustaining the Eclipse IDE used by millions of developers the world over. The &lt;a href=&quot;https://ide-wg.eclipse.org/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Eclipse IDE Working Group&lt;/a&gt; members will leverage our governance framework to openly collaborate and ensure the Eclipse IDE software suite continues to meet developers’ needs for high quality tools.&lt;/p&gt;
+
+
+
+&lt;p&gt;To achieve this goal, the working group members — which currently includes Bosch, EclipseSource, IBM, Kichwa Coders, Renesas, SAP, VMware, and Yatta Solutions — will provide governance, guidance, and funding to the communities that deliver and maintain the Eclipse IDE software components. They will also oversee the related planning, delivery processes, and delivery technologies for the software suite. The projects that make up the Eclipse IDE such as Platform, JDT, and CDT are already wonderfully active, diverse, and vibrant. The working group will further support and strengthen their contributions by providing additional resources.&lt;/p&gt;
+
+
+
+&lt;p&gt;This is great news for everyone who already relies on the Eclipse Platform, desktop IDE, and underlying technologies as well as those who are thinking about adopting the software. With the focus and open collaboration the working group structure enables, everyone can rest assured there is a strong, shared vision for the future of the IDE and its related components. The software will remain relevant, sustainable, and high quality as it evolves.&lt;/p&gt;
+
+
+
+&lt;p&gt;In the 20 years since the Eclipse IDE was first released, it has become one of the world’s most popular and prolific desktop development environments. With tens of millions of downloads and billions of dollars in shared investment, the Eclipse IDE is a critical platform for millions of developers globally, so it’s very important that it remains vital.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Check Out the Latest Eclipse IDE Release&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;We timed the announcement of the Eclipse IDE Working Group to coincide with the latest quarterly Eclipse IDE simultaneous release to highlight how robust this community is. The &lt;a href=&quot;https://www.eclipse.org/downloads/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Eclipse IDE 2021-06 release&lt;/a&gt; is the result of a huge collaborative effort from our dedicated community that encompasses:&lt;/p&gt;
+
+
+
+&lt;p&gt;·      More than 70 participating projects&lt;/p&gt;
+
+
+
+&lt;p&gt;·      110 committers&lt;/p&gt;
+
+
+
+&lt;p&gt;·      174 contributors&lt;/p&gt;
+
+
+
+&lt;p&gt;·      Almost 80 million lines of code&lt;/p&gt;
+
+
+
+&lt;p&gt;Congratulations to all of the committers, projects, and Foundation staff involved! &lt;/p&gt;
+
+
+
+&lt;p&gt;I encourage everyone to check out this latest Eclipse IDE release. It provides a number of new features that will help you develop modern, world-class applications, including:&lt;/p&gt;
+
+
+
+&lt;p&gt;·      Java 16 support&lt;/p&gt;
+
+
+
+&lt;p&gt;·      Improved Eclipse Java development tools (JDT) capabilities such as new cleanups and enhanced debug capabilities&lt;/p&gt;
+
+
+
+&lt;p&gt;·      Mac AArch64 (Arm64) support for Apple M1-based systems&lt;/p&gt;
+
+
+
+&lt;p&gt;·      Improved embedded terminal support, including the ability to open files and links with Ctrl+Click, and remembering working directory, shell, and other settings&lt;/p&gt;
+
+
+
+&lt;p&gt;For more information and the links to download the software, visit the &lt;a href=&quot;https://www.eclipse.org/eclipseide/&quot;&gt;Eclipse IDE 2021-06 release page&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Get Involved in the Eclipse IDE Working Group&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;If the Eclipse IDE is important to your organization’s development efforts, joining the working group is a great way to help support and shape the evolution of a resource your teams rely on.&lt;/p&gt;
+
+
+
+&lt;p&gt;To learn more about how to get involved with the Eclipse IDE Working Group, visit the &lt;a href=&quot;https://ide-wg.eclipse.org/&quot;&gt;Eclipse IDE Working Group&lt;/a&gt; website, or see the working group’s&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/eclipse-ide-charter.php&quot;&gt; Charter&lt;/a&gt; and&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/wpga/eclipse-ide-working-group-participation-agreement.pdf&quot;&gt; Participation Agreement&lt;/a&gt;. Working group members benefit from a broad range of services, including exclusive access to detailed industry research findings, marketing assistance, and expert open source governance.We also welcome companies that want to support the Eclipse IDE without joining the working group. To learn more about sponsoring the Eclipse IDE, please see the working group’s&lt;a href=&quot;https://www.eclipse.org/org/workinggroups/sponsorship/working-group-sponsorship-agreement.pdf&quot;&gt; Sponsorship Agreement&lt;/a&gt;. Individuals can also &lt;a href=&quot;https://www.eclipse.org/donate/&quot;&gt;donate to the Eclipse IDE&lt;/a&gt;.&lt;/p&gt;</description>
+	<pubDate>Thu, 17 Jun 2021 12:03:00 +0000</pubDate>
+</item>
+<item>
 	<title>Donald Raab: My 25 favorite methods from the Eclipse Collections API</title>
 	<guid isPermaLink="false">https://medium.com/p/a51589ee5c4a</guid>
 	<link>https://medium.com/javarevisited/my-25-favorite-eclipse-collections-apis-a51589ee5c4a?source=rss-df39b86e9f04------2</link>
-	<description>&lt;p&gt;Out of hundreds of possibilities, these are some of my favorite methods available on the Eclipse Collections API.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*NPxIjxeXcrPxD6iYBtsuXQ.png&quot; /&gt;&lt;figcaption&gt;My favorite methods in Eclipse Collections&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;The Eclipse Collections API&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; has a very feature rich API. If you ever wished a Java Collection could do something more “collection-like”, Eclipse Collections probably has a method that does it. The following blog has a mind-map of the methods available on the Eclipse Collections API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/oracledevs/visualizing-eclipse-collections-646dad9533a9&quot;&gt;Visualizing Eclipse Collections&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Visualizing the Results&lt;/h3&gt;&lt;p&gt;You can try and debug the results above in your mind, but I thought it would be more helpful if I just showed you the results inline using IntelliJ.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*6xe9THa7G9RyhSsFwOjiTQ.png&quot; /&gt;&lt;figcaption&gt;Debugging the results inline in IntelliJ&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;My Top 25 List&lt;/h3&gt;&lt;p&gt;The 25 methods I highlighted are linked to their JavaDoc, with descriptions and links to separate supporting blogs where available.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/factory/list/MutableListFactory.html#with(T...)&quot;&gt;with&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/factory/set/MutableSetFactory.html#of(T...)&quot;&gt;of&lt;/a&gt; — Collection &lt;a href=&quot;https://donraab.medium.com/my-25-favorite-eclipse-collections-apis-a51589ee5c4a?source=friends_link&amp;amp;sk=4376b5fd10ccefe47c4f56905cc89846&quot;&gt;factory methods&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#collect(org.eclipse.collections.api.block.function.Function)&quot;&gt;collect&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-collect-262a46030c49?source=friends_link&amp;amp;sk=8e4a6aee340389976c787f41c13b9f4c&quot;&gt;Transform a collection&lt;/a&gt; from one type to another&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#select(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;select&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#reject(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;reject&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-filtering-4f14b906f718?source=friends_link&amp;amp;sk=1594797d204bcb37f59f70cf5b2454ef&quot;&gt;Filter a collection&lt;/a&gt; inclusively and exclusively&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#count(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;count&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78&quot;&gt;Count elements&lt;/a&gt; based on a predicate&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#anySatisfy(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;any&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#allSatisfy(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;all&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#noneSatisfy(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;noneSatisfy&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-short-circuiting-methods-e60121bc5a?source=friends_link&amp;amp;sk=5ecb3da7c269dd43ba3f207443c88505&quot;&gt;Short-circuit methods&lt;/a&gt; with Predicates&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#groupBy(org.eclipse.collections.api.block.function.Function)&quot;&gt;groupBy&lt;/a&gt; — &lt;a href=&quot;https://medium.com/oracledevs/ec-by-example-groupby-7ca219358c3b?source=friends_link&amp;amp;sk=a2784eaa165bef00d6324dba4b403ef8&quot;&gt;Group elements&lt;/a&gt; based on a Function&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#countBy(org.eclipse.collections.api.block.function.Function)&quot;&gt;countBy&lt;/a&gt; — &lt;a href=&quot;https://medium.com/oracledevs/ec-by-example-countby-a2d6411e95e1?source=friends_link&amp;amp;sk=4c2605cfab962b8cb977b25e9e4a5d5d&quot;&gt;Count elements by a Function&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#makeString(java.lang.String,java.lang.String,java.lang.String)&quot;&gt;makeString&lt;/a&gt; — &lt;a href=&quot;https://dzone.com/articles/jvm-advent-calendar-hidden-treasures-of-eclipse-co&quot;&gt;Convert a collection to a String&lt;/a&gt; using separators&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/list/MutableList.html#toImmutable()&quot;&gt;toImmutable&lt;/a&gt; — &lt;a href=&quot;https://medium.com/javarevisited/as-a-matter-of-factory-part-2-immutable-8cb72ff897ee?source=friends_link&amp;amp;sk=5795d00fc894914df3925bc3bccf3022&quot;&gt;Convert a collection to an immutable&lt;/a&gt; equivalent&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#asLazy()&quot;&gt;asLazy&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/lazy-and-inexhaustible-f41ffda857dc?source=friends_link&amp;amp;sk=5c9ff9618a6a0acaaa714a3819cda2aa&quot;&gt;Create a lazy view&lt;/a&gt; on the collection&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#containsBy(org.eclipse.collections.api.block.function.Function,V)&quot;&gt;containsBy&lt;/a&gt; — &lt;a href=&quot;https://medium.com/javarevisited/fusing-methods-for-productivity-c15c9eb2d666?source=friends_link&amp;amp;sk=ddde162c6aab068bda4619266d3b3bfb&quot;&gt;Check containment of a value based on a Function&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#detectWith(org.eclipse.collections.api.block.predicate.Predicate2,P)&quot;&gt;detectWith&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-detect-a764c241bb81?source=friends_link&amp;amp;sk=5cb52ff4181d32b229a0e93e5b4d068d&quot;&gt;Find the first element&lt;/a&gt; that matches a Predicate&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#detectWithIfNone(org.eclipse.collections.api.block.predicate.Predicate2,P,org.eclipse.collections.api.block.function.Function0)&quot;&gt;detectWithIfNone&lt;/a&gt; — Same as detectWith, but handles case of none&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#injectInto(IV,org.eclipse.collections.api.block.function.Function2)&quot;&gt;injectInto&lt;/a&gt; —&lt;a href=&quot;https://donraab.medium.com/ec-by-example-injectinto-923a35c3b0cd?source=friends_link&amp;amp;sk=730f9e02a2622fa8fb9cba009b226ede&quot;&gt; Continuum Transfunctioner&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#partition(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;partition&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-partitioning-d2704f826e66?source=friends_link&amp;amp;sk=bac93f4516d88e47b719fcc778f40b79&quot;&gt;Splits a collection based on Predicate&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#chunk(int)&quot;&gt;chunk&lt;/a&gt; — &lt;a href=&quot;https://dzone.com/articles/jvm-calendar-hidden-treasures-of-eclipse-collectio&quot;&gt;Breaks a collection into chunks&lt;/a&gt; based on a size&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#sumByInt(org.eclipse.collections.api.block.function.Function,org.eclipse.collections.api.block.function.primitive.IntFunction)&quot;&gt;sumByInt&lt;/a&gt; — Sums a collection by a key Function and int value&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#collectInt(org.eclipse.collections.api.block.function.primitive.IntFunction)&quot;&gt;collectInt&lt;/a&gt; — 8 primitive versions of &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#collect(org.eclipse.collections.api.block.function.Function)&quot;&gt;collect&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#flatCollectChar(org.eclipse.collections.api.block.function.Function,R)&quot;&gt;flatCollectChar&lt;/a&gt; — &lt;a href=&quot;https://medium.com/@goldbal/ec-by-example-flatcollect-into-primitive-collections-43d40c16eb85&quot;&gt;8 primitive versions&lt;/a&gt; of &lt;a href=&quot;https://donraab.medium.com/ec-by-example-flatcollect-3efe24e43da2?source=friends_link&amp;amp;sk=86b0fd5c5692d76a3404444d6685e4ef&quot;&gt;flatCollect&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/list/ListIterable.html#asParallel(java.util.concurrent.ExecutorService,int)&quot;&gt;asParallel&lt;/a&gt; — returns a &lt;a href=&quot;https://www.infoq.com/presentations/java-streams-scala-parallel-collections/&quot;&gt;performant Lazy ParallelIterable&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/list/MutableList.html#distinct()&quot;&gt;distinct&lt;/a&gt; — &lt;a href=&quot;https://dzone.com/articles/jvm-calendar-hidden-treasures-of-eclipse-collectio&quot;&gt;Returns the distinct values&lt;/a&gt; in a List&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;The Eclipse Collections Solutions as Tests&lt;/h3&gt;&lt;p&gt;I’ve included a gist below with individual tests for each method using Eclipse Collections.&lt;/p&gt;&lt;a href=&quot;https://medium.com/media/ec2f975ee1c9da47a28566c2ba8da2a6/href&quot;&gt;https://medium.com/media/ec2f975ee1c9da47a28566c2ba8da2a6/href&lt;/a&gt;&lt;h3&gt;Why both with and of?&lt;/h3&gt;&lt;p&gt;If you’re wondering why Eclipse Collections has both with and of methods on the factory classes, the following blog explains in detail.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/javarevisited/preposition-preference-1f1c709b098b&quot;&gt;Preposition Preference&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Do you already know Java Streams?&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/JosePaumard&quot;&gt;José Paumard&lt;/a&gt; has posted a set of solutions for these methods using Java Streams instead of Eclipse Collections. This helps provide a “Rosetta Stone” for developers to be able to translate between Eclipse Collections and Java Streams. Here are his solutions in a gist. Thank you José!&lt;/p&gt;&lt;a href=&quot;https://medium.com/media/85f13fedcf120b6b59ed3ae3ca728cc9/href&quot;&gt;https://medium.com/media/85f13fedcf120b6b59ed3ae3ca728cc9/href&lt;/a&gt;&lt;p&gt;The following article can also help you leverage your knowledge of Java Streams to learn the Eclipse Collections API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections/&quot;&gt;Refactoring to Eclipse Collections: Making Your Java Streams Leaner, Meaner, and Cleaner&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Want to try out these methods on your own?&lt;/h3&gt;&lt;p&gt;This blog has evolved into one of the five Eclipse Collections Code Katas.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections-kata/tree/master/top-methods-kata&quot;&gt;eclipse/eclipse-collections-kata&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Check out the open source &lt;a href=&quot;https://github.com/eclipse/eclipse-collections-kata&quot;&gt;Eclipse Collections Kata repo&lt;/a&gt; on GitHub, and try each of these methods in the Top25MethodsTest.&lt;/p&gt;&lt;p&gt;Enjoy!&lt;/p&gt;&lt;p&gt;&lt;em&gt;I am a Project Lead and Committer for the &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; OSS project at the &lt;/em&gt;&lt;a href=&quot;https://projects.eclipse.org/projects/technology.collections&quot;&gt;&lt;em&gt;Eclipse Foundation&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is open for &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md&quot;&gt;&lt;em&gt;contributions&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you like the library, you can let us know by starring it on GitHub.&lt;/em&gt;&lt;/p&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=a51589ee5c4a&quot; width=&quot;1&quot; /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/javarevisited/my-25-favorite-eclipse-collections-apis-a51589ee5c4a&quot;&gt;My 25 favorite methods from the Eclipse Collections API&lt;/a&gt; was originally published in &lt;a href=&quot;https://medium.com/javarevisited&quot;&gt;Javarevisited&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
-	<pubDate>Thu, 10 Jun 2021 23:37:06 +0000</pubDate>
+	<description>&lt;p&gt;Out of hundreds of possibilities, these are some of my favorite methods available on the Eclipse Collections API.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*NPxIjxeXcrPxD6iYBtsuXQ.png&quot; /&gt;&lt;figcaption&gt;My favorite methods in Eclipse Collections&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;The Eclipse Collections API&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt; has a very feature rich API. If you ever wished a Java Collection could do something more “collection-like”, Eclipse Collections probably has a method that does it. The following blog has a mind-map of the methods available on the Eclipse Collections API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/oracledevs/visualizing-eclipse-collections-646dad9533a9&quot;&gt;Visualizing Eclipse Collections&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Visualizing the Results&lt;/h3&gt;&lt;p&gt;You can try and debug the results above in your mind, but I thought it would be more helpful if I just showed you the results inline using IntelliJ.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*6xe9THa7G9RyhSsFwOjiTQ.png&quot; /&gt;&lt;figcaption&gt;Debugging the results inline in IntelliJ&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;My Top 25 List&lt;/h3&gt;&lt;p&gt;The 25 methods I highlighted are linked to their JavaDoc, with descriptions and links to separate supporting blogs where available.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/factory/list/MutableListFactory.html#with(T...)&quot;&gt;with&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/factory/set/MutableSetFactory.html#of(T...)&quot;&gt;of&lt;/a&gt; — Collection &lt;a href=&quot;https://donraab.medium.com/my-25-favorite-eclipse-collections-apis-a51589ee5c4a?source=friends_link&amp;amp;sk=4376b5fd10ccefe47c4f56905cc89846&quot;&gt;factory methods&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#collect(org.eclipse.collections.api.block.function.Function)&quot;&gt;collect&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-collect-262a46030c49?source=friends_link&amp;amp;sk=8e4a6aee340389976c787f41c13b9f4c&quot;&gt;Transform a collection&lt;/a&gt; from one type to another&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#select(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;select&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#reject(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;reject&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-filtering-4f14b906f718?source=friends_link&amp;amp;sk=1594797d204bcb37f59f70cf5b2454ef&quot;&gt;Filter a collection&lt;/a&gt; inclusively and exclusively&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#count(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;count&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78https://donraab.medium.com/ec-by-example-counting-688dfaaf513c?source=friends_link&amp;amp;sk=ffee0e8ed0a363e72f4a2430b7d21d78&quot;&gt;Count elements&lt;/a&gt; based on a predicate&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#anySatisfy(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;any&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#allSatisfy(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;all&lt;/a&gt; / &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#noneSatisfy(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;noneSatisfy&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-short-circuiting-methods-e60121bc5a?source=friends_link&amp;amp;sk=5ecb3da7c269dd43ba3f207443c88505&quot;&gt;Short-circuit methods&lt;/a&gt; with Predicates&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#groupBy(org.eclipse.collections.api.block.function.Function)&quot;&gt;groupBy&lt;/a&gt; — &lt;a href=&quot;https://medium.com/oracledevs/ec-by-example-groupby-7ca219358c3b?source=friends_link&amp;amp;sk=a2784eaa165bef00d6324dba4b403ef8&quot;&gt;Group elements&lt;/a&gt; based on a Function&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#countBy(org.eclipse.collections.api.block.function.Function)&quot;&gt;countBy&lt;/a&gt; — &lt;a href=&quot;https://medium.com/oracledevs/ec-by-example-countby-a2d6411e95e1?source=friends_link&amp;amp;sk=4c2605cfab962b8cb977b25e9e4a5d5d&quot;&gt;Count elements by a Function&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#makeString(java.lang.String,java.lang.String,java.lang.String)&quot;&gt;makeString&lt;/a&gt; — &lt;a href=&quot;https://dzone.com/articles/jvm-advent-calendar-hidden-treasures-of-eclipse-co&quot;&gt;Convert a collection to a String&lt;/a&gt; using separators&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/list/MutableList.html#toImmutable()&quot;&gt;toImmutable&lt;/a&gt; — &lt;a href=&quot;https://medium.com/javarevisited/as-a-matter-of-factory-part-2-immutable-8cb72ff897ee?source=friends_link&amp;amp;sk=5795d00fc894914df3925bc3bccf3022&quot;&gt;Convert a collection to an immutable&lt;/a&gt; equivalent&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#asLazy()&quot;&gt;asLazy&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/lazy-and-inexhaustible-f41ffda857dc?source=friends_link&amp;amp;sk=5c9ff9618a6a0acaaa714a3819cda2aa&quot;&gt;Create a lazy view&lt;/a&gt; on the collection&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#containsBy(org.eclipse.collections.api.block.function.Function,V)&quot;&gt;containsBy&lt;/a&gt; — &lt;a href=&quot;https://medium.com/javarevisited/fusing-methods-for-productivity-c15c9eb2d666?source=friends_link&amp;amp;sk=ddde162c6aab068bda4619266d3b3bfb&quot;&gt;Check containment of a value based on a Function&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#detectWith(org.eclipse.collections.api.block.predicate.Predicate2,P)&quot;&gt;detectWith&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-detect-a764c241bb81?source=friends_link&amp;amp;sk=5cb52ff4181d32b229a0e93e5b4d068d&quot;&gt;Find the first element&lt;/a&gt; that matches a Predicate&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#detectWithIfNone(org.eclipse.collections.api.block.predicate.Predicate2,P,org.eclipse.collections.api.block.function.Function0)&quot;&gt;detectWithIfNone&lt;/a&gt; — Same as detectWith, but handles case of none&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#injectInto(IV,org.eclipse.collections.api.block.function.Function2)&quot;&gt;injectInto&lt;/a&gt; —&lt;a href=&quot;https://donraab.medium.com/ec-by-example-injectinto-923a35c3b0cd?source=friends_link&amp;amp;sk=730f9e02a2622fa8fb9cba009b226ede&quot;&gt; Continuum Transfunctioner&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#partition(org.eclipse.collections.api.block.predicate.Predicate)&quot;&gt;partition&lt;/a&gt; — &lt;a href=&quot;https://donraab.medium.com/ec-by-example-partitioning-d2704f826e66?source=friends_link&amp;amp;sk=bac93f4516d88e47b719fcc778f40b79&quot;&gt;Splits a collection based on Predicate&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#chunk(int)&quot;&gt;chunk&lt;/a&gt; — &lt;a href=&quot;https://dzone.com/articles/jvm-calendar-hidden-treasures-of-eclipse-collectio&quot;&gt;Breaks a collection into chunks&lt;/a&gt; based on a size&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#sumByInt(org.eclipse.collections.api.block.function.Function,org.eclipse.collections.api.block.function.primitive.IntFunction)&quot;&gt;sumByInt&lt;/a&gt; — Sums a collection by a key Function and int value&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#collectInt(org.eclipse.collections.api.block.function.primitive.IntFunction)&quot;&gt;collectInt&lt;/a&gt; — 8 primitive versions of &lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#collect(org.eclipse.collections.api.block.function.Function)&quot;&gt;collect&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/RichIterable.html#flatCollectChar(org.eclipse.collections.api.block.function.Function,R)&quot;&gt;flatCollectChar&lt;/a&gt; — &lt;a href=&quot;https://medium.com/@goldbal/ec-by-example-flatcollect-into-primitive-collections-43d40c16eb85&quot;&gt;8 primitive versions&lt;/a&gt; of &lt;a href=&quot;https://donraab.medium.com/ec-by-example-flatcollect-3efe24e43da2?source=friends_link&amp;amp;sk=86b0fd5c5692d76a3404444d6685e4ef&quot;&gt;flatCollect&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/list/ListIterable.html#asParallel(java.util.concurrent.ExecutorService,int)&quot;&gt;asParallel&lt;/a&gt; — returns a &lt;a href=&quot;https://www.infoq.com/presentations/java-streams-scala-parallel-collections/&quot;&gt;performant Lazy ParallelIterable&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.eclipse.org/collections/javadoc/10.4.0/org/eclipse/collections/api/list/MutableList.html#distinct()&quot;&gt;distinct&lt;/a&gt; — &lt;a href=&quot;https://dzone.com/articles/jvm-calendar-hidden-treasures-of-eclipse-collectio&quot;&gt;Returns the distinct values&lt;/a&gt; in a List&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;The Eclipse Collections Solutions as Tests&lt;/h3&gt;&lt;p&gt;I’ve included a gist below with individual tests for each method using Eclipse Collections.&lt;/p&gt;&lt;a href=&quot;https://medium.com/media/ec2f975ee1c9da47a28566c2ba8da2a6/href&quot;&gt;https://medium.com/media/ec2f975ee1c9da47a28566c2ba8da2a6/href&lt;/a&gt;&lt;h3&gt;Why both with and of?&lt;/h3&gt;&lt;p&gt;If you’re wondering why Eclipse Collections has both with and of methods on the factory classes, the following blog explains in detail.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/javarevisited/preposition-preference-1f1c709b098b&quot;&gt;Preposition Preference&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;More familiar with Java Streams than EC?&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/JosePaumard&quot;&gt;José Paumard&lt;/a&gt; has posted a set of solutions for these methods using Java Streams instead of Eclipse Collections. This helps provide a “Rosetta Stone” for developers to be able to translate between Eclipse Collections and Java Streams. Here are his solutions in a gist. Thank you José!&lt;/p&gt;&lt;a href=&quot;https://medium.com/media/85f13fedcf120b6b59ed3ae3ca728cc9/href&quot;&gt;https://medium.com/media/85f13fedcf120b6b59ed3ae3ca728cc9/href&lt;/a&gt;&lt;p&gt;The following article can also help you leverage your knowledge of Java Streams to learn the Eclipse Collections API.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections/&quot;&gt;Refactoring to Eclipse Collections: Making Your Java Streams Leaner, Meaner, and Cleaner&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Want to try out these methods on your own?&lt;/h3&gt;&lt;p&gt;This blog has evolved into one of the five Eclipse Collections Code Katas.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections-kata/tree/master/top-methods-kata&quot;&gt;eclipse/eclipse-collections-kata&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Check out the open source &lt;a href=&quot;https://github.com/eclipse/eclipse-collections-kata&quot;&gt;Eclipse Collections Kata repo&lt;/a&gt; on GitHub, and try each of these methods in the Top25MethodsTest.&lt;/p&gt;&lt;p&gt;Enjoy!&lt;/p&gt;&lt;p&gt;&lt;em&gt;I am a Project Lead and Committer for the &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; OSS project at the &lt;/em&gt;&lt;a href=&quot;https://projects.eclipse.org/projects/technology.collections&quot;&gt;&lt;em&gt;Eclipse Foundation&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is open for &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md&quot;&gt;&lt;em&gt;contributions&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you like the library, you can let us know by starring it on GitHub.&lt;/em&gt;&lt;/p&gt;&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=a51589ee5c4a&quot; width=&quot;1&quot; /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/javarevisited/my-25-favorite-eclipse-collections-apis-a51589ee5c4a&quot;&gt;My 25 favorite methods from the Eclipse Collections API&lt;/a&gt; was originally published in &lt;a href=&quot;https://medium.com/javarevisited&quot;&gt;Javarevisited&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
+	<pubDate>Wed, 16 Jun 2021 12:58:01 +0000</pubDate>
+</item>
+<item>
+	<title>Webtools News: WTP 3.22 Released!</title>
+	<guid isPermaLink="false">http://www.eclipse.org/webtools/news.php#permalink196</guid>
+	<link>http://eclipse.org/webtools/releases/3.22</link>
+	<description>&lt;div&gt;
+		The Eclipse Web Tools Platform 3.22 has been released!
+		&lt;a href=&quot;https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F&quot;&gt;Installation&lt;/a&gt;
+		and updates can be performed using the Eclipse IDE 2021-06
+		&lt;a href=&quot;http://download.eclipse.org/releases/2021-06/&quot;&gt;Update Site&lt;/a&gt;
+		or through any of the related
+		&lt;a href=&quot;https://marketplace.eclipse.org/user/nitind/listings&quot;&gt;Eclipse Marketplace&lt;/a&gt;
+		.
+		Release 3.22 is included in the 2021-06
+		&lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2021-06/r/eclipse-ide-enterprise-java-and-web-developers&quot;&gt;
+			Eclipse IDE for Enterprise Java and Web Developers
+		&lt;/a&gt;
+		, with selected portions also included in several
+		&lt;a href=&quot;https://www.eclipse.org/downloads/compare.php&quot;&gt;other packages&lt;/a&gt;
+		. Adopters can download
+		&lt;a href=&quot;https://download.eclipse.org/webtools/downloads/&quot;&gt;the R3.22 p2 repository&lt;/a&gt;
+		directly and combine it with the necessary dependencies.&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink196&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 16 Jun 2021 12:01:00 +0000</pubDate>
 </item>
 <item>
 	<title>Mike Milinkovich: How Real Is IoT &amp; Edge Commercial Adoption in 2021?</title>
@@ -270,77 +376,6 @@
 
 &lt;h4 id=&quot;enjoy&quot;&gt;Enjoy!&lt;/h4&gt;</description>
 	<pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-</item>
-<item>
-	<title>Mike Milinkovich: Jakarta EE 9.1 Accelerates Open Source Enterprise Java</title>
-	<guid isPermaLink="false">http://eclipse-foundation.blog/?p=1602</guid>
-	<link>https://eclipse-foundation.blog/2021/05/26/jakarta-ee-9-1-accelerates-open-source-enterprise-java/</link>
-	<description>&lt;p&gt;Just a little more than five months ago, I was sharing news about the Jakarta EE 9 platform release. Today, I’m very pleased to tell you that the&lt;a href=&quot;https://jakarta.ee/&quot;&gt; Jakarta EE Working Group&lt;/a&gt; has released the Jakarta EE 9.1 Platform and Web Profile specifications and related Technology Compatibility Kits (TCKs). Congratulations and thanks to everyone in the Jakarta EE community who made this release possible.&lt;/p&gt;
-
-
-
-&lt;p&gt;The accelerated innovation we’re seeing in Jakarta EE, and the growing number of compatible implementations, are clear signs that enterprise Java is experiencing a renaissance.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Enterprises Have New Agility to Develop and Evolve Java Applications&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Jakarta EE 9 opened the door to the next era of innovation using cloud native technologies for Java by delivering the&lt;a href=&quot;https://blogs.eclipse.org/post/mike-milinkovich/jakarta-ee-9-delivers-big-bang&quot;&gt; “big bang” namespace change to jakarta.*.&lt;/a&gt; &lt;/p&gt;
-
-
-
-&lt;p&gt;Jakarta EE 9.1 takes that rejuvenation to the next level. The release includes a number of updates and new options, and is compatible with Java SE 11, which is seeing increasing adoption. The 2020 Jakarta EE Developer Survey revealed that 28 percent of respondents were using Java SE 11, compared to 20 percent of respondents in 2019.&lt;/p&gt;
-
-
-
-&lt;p&gt;Together, the advances in Jakarta EE 9.1 give enterprises the flexibility to make more choices, and to mix and match technologies as needed to meet their unique application development and migration requirements. With Jakarta EE 9.1, enterprises can:&lt;/p&gt;
-
-
-
-&lt;ul&gt;&lt;li&gt;Develop and deploy Jakarta EE 9.1 applications on Java SE 11, the most current LTS release of Java SE, as well as Java SE 8&lt;/li&gt;&lt;li&gt;Leverage Java SE 11 features that have been added since Java SE 8 in their Jakarta EE 9.1 applications &lt;/li&gt;&lt;li&gt;Take advantage of new technologies that support Java SE 11 in their Jakarta EE 9.1 applications&lt;/li&gt;&lt;li&gt;Move existing Jakarta EE 9 applications to Java SE 11 without changes&lt;/li&gt;&lt;li&gt;Migrate existing Java EE and Jakarta EE 8 applications to Jakarta EE 9.1 using the same straightforward process available for migration to Jakarta EE 9&lt;/li&gt;&lt;/ul&gt;
-
-
-
-&lt;p&gt;With a variety of paths to choose from, every enterprise can develop and migrate Java applications in a way that aligns with their technical objectives and business goals.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;There Are Already Five Jakarta EE 9.1-Compatible Applications&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;As we announce Jakarta EE 9.1, five products from global leaders in the Java ecosystem have already been certified as compatible with the release:&lt;/p&gt;
-
-
-
-&lt;ul&gt;&lt;li&gt;IBM’s Open Liberty&lt;/li&gt;&lt;li&gt;Eclipse Glassfish&lt;/li&gt;&lt;li&gt;Apache TomEE&lt;/li&gt;&lt;li&gt;Red Hat’s Wildfly&lt;/li&gt;&lt;li&gt;ManageCat’s ManageFish&lt;/li&gt;&lt;/ul&gt;
-
-
-
-&lt;p&gt;These implementations are proof positive the Java ecosystem recognizes the value Jakarta EE brings to their business and the technologies they develop.&lt;/p&gt;
-
-
-
-&lt;p&gt;The rapid technology adoption we’re seeing with Jakarta EE is thanks to the openness of  the&lt;a href=&quot;https://jakarta.ee/about/jesp/&quot;&gt; Jakarta EE Specification Process&lt;/a&gt;. This simplified process dramatically lowers the barrier to entry, making it much easier for organizations of all sizes to have their products certified as a compatible implementation and leverage the Jakarta EE brand for their own business success.&lt;/p&gt;
-
-
-
-&lt;p&gt;The number of compatible implementations across Jakarta EE releases is growing all the time, so be sure to check the&lt;a href=&quot;https://jakarta.ee/compatibility/&quot;&gt; Jakarta EE compatible products webpage&lt;/a&gt; for the latest list. To be listed as a Jakarta EE-compatible product,&lt;a href=&quot;https://jakarta.ee/compatibility/get_listed/&quot;&gt; follow the instructions here&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Learn More About Jakarta EE 9.1 and Get Involved&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;To learn more about the Jakarta EE 9.1 release contents, read the&lt;a href=&quot;https://eclipse-ee4j.github.io/jakartaee-platform/jakartaee9/JakartaEE9.1ReleasePlan&quot;&gt; Jakarta EE 9.1 release plan&lt;/a&gt; and check out the&lt;a href=&quot;https://jakarta.ee/specifications/&quot;&gt; specifications&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;As the focus shifts to Jakarta EE 10, the Jakarta EE Working Group and community welcome all organizations and individuals who want to participate. To learn more and get involved in the conversation, explore&lt;a href=&quot;https://jakarta.ee/membership/&quot;&gt; the benefits of membership in the Jakarta EE Working Group&lt;/a&gt; and&lt;a href=&quot;https://jakarta.ee/connect/&quot;&gt; connect with the community&lt;/a&gt;.&lt;/p&gt;</description>
-	<pubDate>Wed, 26 May 2021 11:05:00 +0000</pubDate>
 </item>
 <item>
 	<title>Kichwa Coders: ConPTY Performance in Eclipse Terminal</title>
@@ -3823,22 +3858,22 @@ As an example of &lt;em&gt;different&lt;/em&gt; viewpoints, imagine a complex mo
 	<guid isPermaLink="false">http://www.eclipse.org/webtools/news.php#permalink195</guid>
 	<link>http://eclipse.org/webtools/releases/3.21</link>
 	<description>&lt;div&gt;
-		The Eclipse Web Tools Platform 3.21 has been released!
-		&lt;a href=&quot;https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F&quot;&gt;Installation&lt;/a&gt;
-		and updates can be performed using the Eclipse IDE 2021-03
-		&lt;a href=&quot;http://download.eclipse.org/releases/2021-03/&quot;&gt;Update Site&lt;/a&gt;
-		or through any of the related
-		&lt;a href=&quot;https://marketplace.eclipse.org/user/nitind/listings&quot;&gt;Eclipse Marketplace&lt;/a&gt;
-		.
-		Release 3.21 is included in the 2021-03
-		&lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-enterprise-java-and-web-developers&quot;&gt;
-			Eclipse IDE for Enterprise Java and Web Developers
-		&lt;/a&gt;
-		, with selected portions also included in several
-		&lt;a href=&quot;http://www.eclipse.org/downloads/compare.php&quot;&gt;other packages&lt;/a&gt;
-		. Adopters can download
-		&lt;a href=&quot;http://download.eclipse.org/webtools/downloads/&quot;&gt;the R3.21 p2 repository&lt;/a&gt;
-		directly and combine it with the necessary dependencies.&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink195&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
+    The Eclipse Web Tools Platform 3.21 has been released!
+    &lt;a href=&quot;https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F&quot;&gt;Installation&lt;/a&gt;
+    and updates can be performed using the Eclipse IDE 2021-03
+    &lt;a href=&quot;http://download.eclipse.org/releases/2021-03/&quot;&gt;Update Site&lt;/a&gt;
+    or through any of the related
+    &lt;a href=&quot;https://marketplace.eclipse.org/user/nitind/listings&quot;&gt;Eclipse Marketplace&lt;/a&gt;
+    .
+    Release 3.21 is included in the 2021-03
+    &lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-enterprise-java-and-web-developers&quot;&gt;
+      Eclipse IDE for Enterprise Java and Web Developers
+    &lt;/a&gt;
+    , with selected portions also included in several
+    &lt;a href=&quot;http://www.eclipse.org/downloads/compare.php&quot;&gt;other packages&lt;/a&gt;
+    . Adopters can download
+    &lt;a href=&quot;http://download.eclipse.org/webtools/downloads/&quot;&gt;the R3.21 p2 repository&lt;/a&gt;
+    directly and combine it with the necessary dependencies.&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink195&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
 	<pubDate>Wed, 17 Mar 2021 14:01:00 +0000</pubDate>
 </item>
 <item>
@@ -4664,29 +4699,6 @@ https://twitter.com/CloudNativeFdn/status/1343914259177222145
 	<description>&lt;p&gt; &lt;a href=&quot;https://www.eclipse.org/ecf/downloads.php&quot;&gt;ECF 3.14.19 has been released&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Along with the usual bug fixes, this release includes new documentation on the &lt;a href=&quot;https://wiki.eclipse.org/Using_Properties_to_Import_Endpoint_Descriptions&quot;&gt;use of properties for discovering and importing remote services&lt;/a&gt;.   The docs describe the use of properties files for simplifying the import of remote services.   &lt;/p&gt;&lt;p&gt;This capability is especially useful for Eclipse RCP clients accessing &lt;a href=&quot;https://github.com/ECF/JaxRSProviders&quot;&gt;Jax-RS/REST remote services&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Patrick Paulin describes a production usage his &lt;a href=&quot;https://modumind.com/2021/01/07/eclipse-rcp-and-rest-default-properties-make-configuration-even-easier/&quot; target=&quot;_blank&quot;&gt;blog posting here&lt;/a&gt;.&lt;/p&gt;</description>
 	<pubDate>Fri, 08 Jan 2021 00:21:07 +0000</pubDate>
 	<author>noreply@blogger.com (Scott Lewis)</author>
-</item>
-<item>
-	<title>Webtools News: WTP 3.20 Released!</title>
-	<guid isPermaLink="false">http://www.eclipse.org/webtools/news.php#permalink194</guid>
-	<link>http://eclipse.org/webtools/releases/3.20</link>
-	<description>&lt;div&gt;
-		The Eclipse Web Tools Platform 3.20 has been released!
-		&lt;a href=&quot;https://wiki.eclipse.org/WTP_FAQ#How_do_I_install_WTP.3F&quot;&gt;Installation&lt;/a&gt;
-		and updates can be performed using the Eclipse IDE 2020-12
-		&lt;a href=&quot;http://download.eclipse.org/releases/2020-12/&quot;&gt;Update Site&lt;/a&gt;
-		or through any of the related
-		&lt;a href=&quot;https://marketplace.eclipse.org/user/nitind/listings&quot;&gt;Eclipse Marketplace&lt;/a&gt;
-		listings .
-		Release 3.20 is included in the 2020-12
-		&lt;a href=&quot;https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-enterprise-java-developers&quot;&gt;
-			Eclipse IDE for Enterprise Java Developers
-		&lt;/a&gt;
-		, with selected portions also included in several
-		&lt;a href=&quot;http://www.eclipse.org/downloads/compare.php&quot;&gt;other packages&lt;/a&gt;
-		. Adopters can download
-		&lt;a href=&quot;http://download.eclipse.org/webtools/downloads/&quot;&gt;the R3.20 p2 repository&lt;/a&gt;
-		directly and combine it with the necessary dependencies.&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://www.eclipse.org/webtools/news.php#permalink194&quot;&gt;More news&lt;/a&gt;&lt;/p&gt;</description>
-	<pubDate>Wed, 16 Dec 2020 20:55:18 +0000</pubDate>
 </item>
 <item>
 	<title>Fabio Zadrozny: LiClipse 7.1.0 released (improved Dark theme, LiClipseText and PyDev updates)</title>

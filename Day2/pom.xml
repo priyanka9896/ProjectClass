@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.projectclass</groupId>
-  <artifactId>Day1</artifactId>
+  <artifactId>Day2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Day1</name>
+  <name>Day2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -21,21 +21,5 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    
-    <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>6.14.3</version>
-    <scope>test</scope>
-</dependency>
-    
-    <!-- https://mvnrepository.com/artifact/com.beust/jcommander -->
-<dependency>
-    <groupId>com.beust</groupId>
-    <artifactId>jcommander</artifactId>
-    <version>1.27</version>
-</dependency>
-    
   </dependencies>
 </project>
